@@ -1,11 +1,11 @@
 body {
-  background-image: url("")
+  background-image: url("/images/Leaves.png")
 }
 .areaHeader {
   border-radius: 4px;
   background-color: black;
   color: white;
   opacity: 0.5;
-  font-size: 20px;
+  font-size: 36px;
   text-align: center;
 }
