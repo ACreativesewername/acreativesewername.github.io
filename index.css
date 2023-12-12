@@ -6,4 +6,6 @@ body {
   background-color: black;
   color: white;
   opacity: 0.5;
+  font-size: 20px;
+  text-align: center;
 }
