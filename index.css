@@ -1,3 +1,6 @@
+body {
+  background-image: url("/images/Bugaria_Outskirts.png")
+}
 .areaHeader {
   border-radius: 4px;
   background-color: black;
