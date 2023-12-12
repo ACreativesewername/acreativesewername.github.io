@@ -1,4 +1,6 @@
 areaHeader {
   border-radius: 4px;
+  color: black;
+  font-color: white;
   opacity: 0.5;
 }
