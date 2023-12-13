@@ -20,7 +20,7 @@ width: 7rem;
 height: 7rem;
 border-radius: 5.5rem;
 object-fit: cover;
-margin-top: 0.5rem;
+margin: auto;
 }
 .itemName {
 width: 8rem;
